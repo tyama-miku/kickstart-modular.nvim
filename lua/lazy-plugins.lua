@@ -66,6 +66,7 @@ require('lazy').setup({
   { import = 'custom.plugins.render-markdown' },
   { import = 'custom.plugins.vimtex' },
   { import = 'custom.plugins.noice' },
+  { import = 'custom.plugins.treesitter' },
   --
   -- For additional information with loading, sourcing and examples see `:help lazy.nvim-🔌-plugin-spec`
   -- Or use telescope!
